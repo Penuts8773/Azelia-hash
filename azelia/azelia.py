@@ -1,4 +1,3 @@
-### Updated azelia.py ###
 from azelia.azeliaconfig import AzeliaConfig
 from argon2 import PasswordHasher
 import bcrypt
